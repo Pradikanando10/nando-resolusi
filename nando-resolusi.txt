@@ -1,3 +1,5 @@
 -list belajar git
 -list belajar api
 -list belajar react js
+-list belajar node js
+-list belajar postgre sql
